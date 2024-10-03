@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: orange;">
+    <img src="foto_cv_lc_es_4.jpg">
+    <h1 style="color: green">Currículum Vitae</h1>
+    <h2>Datos Personales</h2>
+    <p>Nombre: Diego Rodríguez de Guzmán Daza</p>
+    <p>Domicilio: calle Norte, 22 13600 Alcázar de  San Juan</p>
+    <p>Email: diegorgd2006@gmail.com</p>
+    <h2>Formación Academica</h2>
+    <p>Técnico Superior en desarrollo de Aplicaciones Web por el instituto <a href="https://www.iesjuanbosco.es/">I.E.S Juan Bosco</a></p>
+    <h2>Idiomas</h2>
+    <p>Ingles: <mark>B2</mark></p>
+    <p><del>Francés</del></p>
+</body>
+</html>
